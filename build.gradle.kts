@@ -33,5 +33,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("ApplicationKt")
+    mainClass.set("MainKt")
 }
